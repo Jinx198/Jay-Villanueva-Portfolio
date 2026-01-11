@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open index.html",
-            "file": "c:\\Users\\jjvil\\VSC-repo\\Jay-Villanueva-Portfolio-2025\\index.html"
+            "file": "c:\\Users\\jjvil\\VSC-repo\\Jay-Villanueva-Portfolio\\index.html"
         }
     ]
 }
